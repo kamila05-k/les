@@ -1,0 +1,13 @@
+# print(1234567890+1234567890)
+name = ("бекбол")
+age = 12
+print(name)
+print(age)
+name = 593
+print(type(name))
+print(name * 123456789)
+print(97.47+5678)
+name1 = 234565432
+match2 = 987654387
+print(name1/match2)
+a = 75769999999999999999999999999999999766666666666666666666659695
